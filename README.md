@@ -1,8 +1,8 @@
 # Meet Clone
 
 # Colors
-  ## verde #056B5F
-  ## cinza letras #5F6368
+  ### verde #056B5F
+  ### cinza letras #5F6368
 
 # Icons
   ## video_call - botão nova reunião

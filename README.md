@@ -1,4 +1,19 @@
-# Quasar App (meet)
+# Meet Clone
+
+# Colors
+  ## verde #056B5F
+  ## cinza letras #5F6368
+
+# Icons
+  ## video_call - botão nova reunião
+  ## keyboard - input digite um código ou link
+  ## apps - lado direito barra
+  ## settings - engrenagem
+  ## sms_failed - balão com !
+  ## help_outline - interrogação
+
+
+
 
 A Quasar Framework app
 
